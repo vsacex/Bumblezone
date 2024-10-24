@@ -34,6 +34,18 @@
       "required": false
     },
     {
+      "id": "mythicmetals:unobtainium_block",
+      "required": false
+    },
+    {
+      "id": "mythicmetals:unobtainium_ore",
+      "required": false
+    },
+    {
+      "id": "mythicmetals:deepslate_unobtainium_ore",
+      "required": false
+    },
+    {
       "id": "oxidized:copper_trap",
       "required": false
     },
